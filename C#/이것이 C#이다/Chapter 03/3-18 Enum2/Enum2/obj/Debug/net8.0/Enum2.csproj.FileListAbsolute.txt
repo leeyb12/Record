@@ -1,0 +1,15 @@
+D:\C-\C#\이것이 C#이다\Chapter 03\Enum2\Enum2\bin\Debug\net8.0\Enum2.exe
+D:\C-\C#\이것이 C#이다\Chapter 03\Enum2\Enum2\bin\Debug\net8.0\Enum2.deps.json
+D:\C-\C#\이것이 C#이다\Chapter 03\Enum2\Enum2\bin\Debug\net8.0\Enum2.runtimeconfig.json
+D:\C-\C#\이것이 C#이다\Chapter 03\Enum2\Enum2\bin\Debug\net8.0\Enum2.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\Enum2\Enum2\bin\Debug\net8.0\Enum2.pdb
+D:\C-\C#\이것이 C#이다\Chapter 03\Enum2\Enum2\obj\Debug\net8.0\Enum2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-\C#\이것이 C#이다\Chapter 03\Enum2\Enum2\obj\Debug\net8.0\Enum2.AssemblyInfoInputs.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\Enum2\Enum2\obj\Debug\net8.0\Enum2.AssemblyInfo.cs
+D:\C-\C#\이것이 C#이다\Chapter 03\Enum2\Enum2\obj\Debug\net8.0\Enum2.csproj.CoreCompileInputs.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\Enum2\Enum2\obj\Debug\net8.0\Enum2.sourcelink.json
+D:\C-\C#\이것이 C#이다\Chapter 03\Enum2\Enum2\obj\Debug\net8.0\Enum2.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\Enum2\Enum2\obj\Debug\net8.0\refint\Enum2.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\Enum2\Enum2\obj\Debug\net8.0\Enum2.pdb
+D:\C-\C#\이것이 C#이다\Chapter 03\Enum2\Enum2\obj\Debug\net8.0\Enum2.genruntimeconfig.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\Enum2\Enum2\obj\Debug\net8.0\ref\Enum2.dll

@@ -1,0 +1,15 @@
+D:\C-\C#\이것이 C#이다\Chapter 03\FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.exe
+D:\C-\C#\이것이 C#이다\Chapter 03\FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.deps.json
+D:\C-\C#\이것이 C#이다\Chapter 03\FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.runtimeconfig.json
+D:\C-\C#\이것이 C#이다\Chapter 03\FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\FloatingPoint\FloatingPoint\bin\Debug\net8.0\FloatingPoint.pdb
+D:\C-\C#\이것이 C#이다\Chapter 03\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-\C#\이것이 C#이다\Chapter 03\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.AssemblyInfoInputs.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.AssemblyInfo.cs
+D:\C-\C#\이것이 C#이다\Chapter 03\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.csproj.CoreCompileInputs.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.sourcelink.json
+D:\C-\C#\이것이 C#이다\Chapter 03\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\FloatingPoint\FloatingPoint\obj\Debug\net8.0\refint\FloatingPoint.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.pdb
+D:\C-\C#\이것이 C#이다\Chapter 03\FloatingPoint\FloatingPoint\obj\Debug\net8.0\FloatingPoint.genruntimeconfig.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\FloatingPoint\FloatingPoint\obj\Debug\net8.0\ref\FloatingPoint.dll

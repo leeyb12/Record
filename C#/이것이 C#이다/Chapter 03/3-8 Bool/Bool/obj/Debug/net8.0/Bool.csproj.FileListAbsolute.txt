@@ -1,0 +1,15 @@
+D:\C-\C#\이것이 C#이다\Chapter 03\Bool\Bool\bin\Debug\net8.0\Bool.exe
+D:\C-\C#\이것이 C#이다\Chapter 03\Bool\Bool\bin\Debug\net8.0\Bool.deps.json
+D:\C-\C#\이것이 C#이다\Chapter 03\Bool\Bool\bin\Debug\net8.0\Bool.runtimeconfig.json
+D:\C-\C#\이것이 C#이다\Chapter 03\Bool\Bool\bin\Debug\net8.0\Bool.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\Bool\Bool\bin\Debug\net8.0\Bool.pdb
+D:\C-\C#\이것이 C#이다\Chapter 03\Bool\Bool\obj\Debug\net8.0\Bool.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-\C#\이것이 C#이다\Chapter 03\Bool\Bool\obj\Debug\net8.0\Bool.AssemblyInfoInputs.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\Bool\Bool\obj\Debug\net8.0\Bool.AssemblyInfo.cs
+D:\C-\C#\이것이 C#이다\Chapter 03\Bool\Bool\obj\Debug\net8.0\Bool.csproj.CoreCompileInputs.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\Bool\Bool\obj\Debug\net8.0\Bool.sourcelink.json
+D:\C-\C#\이것이 C#이다\Chapter 03\Bool\Bool\obj\Debug\net8.0\Bool.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\Bool\Bool\obj\Debug\net8.0\refint\Bool.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\Bool\Bool\obj\Debug\net8.0\Bool.pdb
+D:\C-\C#\이것이 C#이다\Chapter 03\Bool\Bool\obj\Debug\net8.0\Bool.genruntimeconfig.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\Bool\Bool\obj\Debug\net8.0\ref\Bool.dll

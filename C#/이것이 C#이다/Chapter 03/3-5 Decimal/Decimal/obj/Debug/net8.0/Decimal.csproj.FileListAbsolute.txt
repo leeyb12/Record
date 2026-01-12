@@ -1,0 +1,15 @@
+D:\C-\C#\이것이 C#이다\Chapter 03\Decimal\Decimal\bin\Debug\net8.0\Decimal.exe
+D:\C-\C#\이것이 C#이다\Chapter 03\Decimal\Decimal\bin\Debug\net8.0\Decimal.deps.json
+D:\C-\C#\이것이 C#이다\Chapter 03\Decimal\Decimal\bin\Debug\net8.0\Decimal.runtimeconfig.json
+D:\C-\C#\이것이 C#이다\Chapter 03\Decimal\Decimal\bin\Debug\net8.0\Decimal.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\Decimal\Decimal\bin\Debug\net8.0\Decimal.pdb
+D:\C-\C#\이것이 C#이다\Chapter 03\Decimal\Decimal\obj\Debug\net8.0\Decimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-\C#\이것이 C#이다\Chapter 03\Decimal\Decimal\obj\Debug\net8.0\Decimal.AssemblyInfoInputs.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\Decimal\Decimal\obj\Debug\net8.0\Decimal.AssemblyInfo.cs
+D:\C-\C#\이것이 C#이다\Chapter 03\Decimal\Decimal\obj\Debug\net8.0\Decimal.csproj.CoreCompileInputs.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\Decimal\Decimal\obj\Debug\net8.0\Decimal.sourcelink.json
+D:\C-\C#\이것이 C#이다\Chapter 03\Decimal\Decimal\obj\Debug\net8.0\Decimal.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\Decimal\Decimal\obj\Debug\net8.0\refint\Decimal.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\Decimal\Decimal\obj\Debug\net8.0\Decimal.pdb
+D:\C-\C#\이것이 C#이다\Chapter 03\Decimal\Decimal\obj\Debug\net8.0\Decimal.genruntimeconfig.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\Decimal\Decimal\obj\Debug\net8.0\ref\Decimal.dll

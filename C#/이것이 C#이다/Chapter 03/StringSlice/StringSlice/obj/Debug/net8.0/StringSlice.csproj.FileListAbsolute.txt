@@ -1,0 +1,15 @@
+D:\C-\C#\이것이 C#이다\Chapter 03\StringSlice\StringSlice\bin\Debug\net8.0\StringSlice.exe
+D:\C-\C#\이것이 C#이다\Chapter 03\StringSlice\StringSlice\bin\Debug\net8.0\StringSlice.deps.json
+D:\C-\C#\이것이 C#이다\Chapter 03\StringSlice\StringSlice\bin\Debug\net8.0\StringSlice.runtimeconfig.json
+D:\C-\C#\이것이 C#이다\Chapter 03\StringSlice\StringSlice\bin\Debug\net8.0\StringSlice.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\StringSlice\StringSlice\bin\Debug\net8.0\StringSlice.pdb
+D:\C-\C#\이것이 C#이다\Chapter 03\StringSlice\StringSlice\obj\Debug\net8.0\StringSlice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-\C#\이것이 C#이다\Chapter 03\StringSlice\StringSlice\obj\Debug\net8.0\StringSlice.AssemblyInfoInputs.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\StringSlice\StringSlice\obj\Debug\net8.0\StringSlice.AssemblyInfo.cs
+D:\C-\C#\이것이 C#이다\Chapter 03\StringSlice\StringSlice\obj\Debug\net8.0\StringSlice.csproj.CoreCompileInputs.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\StringSlice\StringSlice\obj\Debug\net8.0\StringSlice.sourcelink.json
+D:\C-\C#\이것이 C#이다\Chapter 03\StringSlice\StringSlice\obj\Debug\net8.0\StringSlice.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\StringSlice\StringSlice\obj\Debug\net8.0\refint\StringSlice.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\StringSlice\StringSlice\obj\Debug\net8.0\StringSlice.pdb
+D:\C-\C#\이것이 C#이다\Chapter 03\StringSlice\StringSlice\obj\Debug\net8.0\StringSlice.genruntimeconfig.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\StringSlice\StringSlice\obj\Debug\net8.0\ref\StringSlice.dll

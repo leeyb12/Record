@@ -1,0 +1,15 @@
+D:\C-\C#\이것이 C#이다\Chapter 03\Char\Char\bin\Debug\net8.0\Char.exe
+D:\C-\C#\이것이 C#이다\Chapter 03\Char\Char\bin\Debug\net8.0\Char.deps.json
+D:\C-\C#\이것이 C#이다\Chapter 03\Char\Char\bin\Debug\net8.0\Char.runtimeconfig.json
+D:\C-\C#\이것이 C#이다\Chapter 03\Char\Char\bin\Debug\net8.0\Char.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\Char\Char\bin\Debug\net8.0\Char.pdb
+D:\C-\C#\이것이 C#이다\Chapter 03\Char\Char\obj\Debug\net8.0\Char.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-\C#\이것이 C#이다\Chapter 03\Char\Char\obj\Debug\net8.0\Char.AssemblyInfoInputs.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\Char\Char\obj\Debug\net8.0\Char.AssemblyInfo.cs
+D:\C-\C#\이것이 C#이다\Chapter 03\Char\Char\obj\Debug\net8.0\Char.csproj.CoreCompileInputs.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\Char\Char\obj\Debug\net8.0\Char.sourcelink.json
+D:\C-\C#\이것이 C#이다\Chapter 03\Char\Char\obj\Debug\net8.0\Char.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\Char\Char\obj\Debug\net8.0\refint\Char.dll
+D:\C-\C#\이것이 C#이다\Chapter 03\Char\Char\obj\Debug\net8.0\Char.pdb
+D:\C-\C#\이것이 C#이다\Chapter 03\Char\Char\obj\Debug\net8.0\Char.genruntimeconfig.cache
+D:\C-\C#\이것이 C#이다\Chapter 03\Char\Char\obj\Debug\net8.0\ref\Char.dll
